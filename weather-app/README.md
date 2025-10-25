@@ -9,8 +9,7 @@ A simple weather application built with **React**, **HTML**, **CSS**, and **Java
 - Built with React for dynamic UI
 
 ## Demo
-Add a link to your live demo here (if any):
-[Live Demo](https://your-demo-link.com)
+https://weather-app-ramin.netlify.app/
 
 ## Installation
 1. Clone the repository:
@@ -49,5 +48,3 @@ Weather API (OpenWeatherMap or similar)
 # License
 
 This project is licensed under the MIT License.
-
-Live demo : https://weather-app-ramin.netlify.app/
