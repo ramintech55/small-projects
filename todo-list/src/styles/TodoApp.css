@@ -1,0 +1,14 @@
+.todoAppDiv {
+    box-shadow: 0 0 1rem black;
+    padding: 4rem;
+    border-radius: 2rem;
+    background-color: white;
+    width: 70%;
+}
+
+@media (max-width: 726px) {
+    .todoAppDiv {
+        padding: 3rem;
+        width: 90%;
+    }
+}

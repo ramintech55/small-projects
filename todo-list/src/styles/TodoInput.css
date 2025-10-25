@@ -1,0 +1,30 @@
+.todoInput {
+    padding: 0.9rem;
+    width: 30rem;
+}
+
+.addBtn {
+    background-color: rgb(57, 163, 57);
+    color: white;
+    padding: 0.7rem 1.2rem;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+    margin-left: 0.5rem;
+}
+
+.addBtn:hover {
+    background-color: green;
+}
+
+.formDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 461px) {
+    .todoInput {
+        width: 21rem;
+    }
+}
