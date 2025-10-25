@@ -1,0 +1,57 @@
+.converterDiv {
+    box-shadow: 0 0 1rem black;
+    padding: 2rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1.5rem;
+    background-color: #ffffff;
+}
+
+.headline {
+    font-size: 2rem;
+}
+
+.currencyInput {
+    padding: 0.5rem;
+    font-size: 1.4rem;
+}
+
+.selector {
+    font-size: 1.3rem;
+    padding: 0.4rem;
+}
+
+.option {
+    font-size: 1.3rem;
+}
+
+.convertBtn {
+    padding: 0.4rem 0.8rem;
+    font-size: 1.4rem;
+    background-color: rgb(76, 188, 76);
+    cursor: pointer;
+    outline: none;
+    border-radius: 0.5rem;
+    color: white;
+    border: none;
+}
+
+.convertBtn:hover {
+    background-color: green;
+}
+
+.mainArea {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.2rem;
+}
+
+@media (max-width: 600px) {
+    .mainArea {
+        flex-direction: column;
+    }
+}

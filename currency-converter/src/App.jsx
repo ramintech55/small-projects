@@ -1,0 +1,13 @@
+import React from 'react'
+import Converter from './Converter'
+import './App.css'
+
+function App() {
+  return (
+    <div className='appDiv'>
+      <Converter/>
+    </div>
+  )
+}
+
+export default App
