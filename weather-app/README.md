@@ -9,13 +9,12 @@ A simple weather application built with **React**, **HTML**, **CSS**, and **Java
 - Built with React for dynamic UI
 
 ## Demo
-Add a link to your live demo here (if any):
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://weather-app-ramin.netlify.app/)
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/small-projects.git
+   git clone https://github.com/ramintech55/small-projects.git
 
 2. Navigate to the project folder:
 cd small-projects/weather-app
@@ -49,5 +48,3 @@ Weather API (OpenWeatherMap or similar)
 # License
 
 This project is licensed under the MIT License.
-
-Live demo : https://weather-app-ramin.netlify.app/
