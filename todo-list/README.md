@@ -20,7 +20,7 @@ https://todo-list-ramin.netlify.app/
 
 # Installation
 - Clone the repository
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/ramintech55/todo-list.git
 
 # Navigate into the project folder
 cd todo-list
