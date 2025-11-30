@@ -1,12 +1,46 @@
-# React + Vite
+# Currency Converter Project 💱
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and user-friendly **currency converter** application built with HTML, CSS, JavaScript, and React.
 
-Currently, two official plugins are available:
+## 🔗 Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live demo here: [Demo Link](https://ramin-currency-convert.netlify.app/)
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Quick and easy conversion between different currencies.
+- Clean and simple user interface.
+- Dynamic and fast updates using React.
+- Mobile-friendly design.
+
+## 🛠 Technologies
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Framework:** React  
+
+## 🖥 Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/ramintech55/currency-converter.git
+
+2. Go to the project folder:
+cd currency-converter
+
+3. Install dependencies:
+npm install
+
+4. Start the project:
+npm start
+
+Usage :
+Select the currencies you want to convert.
+Enter the amount.
+Click the "Convert" button to see the result.
+
+Contributing
+Contributions are welcome! You can submit a pull request or suggest new features. Any feedback is greatly appreciated.
+
+License
+This project is licensed under the MIT License.
