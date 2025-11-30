@@ -8,6 +8,7 @@ A simple and responsive To-Do List Application to manage your daily tasks.
 - Component-based architecture
 - Full responsive
 - Local Storage
+- Redux
 
 # Technologies used
 - React
