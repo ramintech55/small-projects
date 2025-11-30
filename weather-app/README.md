@@ -5,8 +5,12 @@ A simple weather application built with **React**, **HTML**, **CSS**, and **Java
 ## Features
 - Real-time weather updates
 - Display temperature, humidity, and wind speed
-- Clean and responsive user interface
+- Clean user interface
 - Built with React for dynamic UI
+- Component-based architecture
+- Full responsive
+- Local Storage
+- Redux
 
 ## Demo
 [Live Demo](https://weather-app-ramin.netlify.app/)
