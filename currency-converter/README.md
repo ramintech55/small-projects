@@ -12,6 +12,9 @@ Check out the live demo here: [Demo Link](https://ramin-currency-convert.netlify
 - Clean and simple user interface.
 - Dynamic and fast updates using React.
 - Mobile-friendly design.
+- Local Storage
+- Component structure
+- Redux
 
 ## 🛠 Technologies
 
